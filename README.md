@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vinupolly@gmail.com**
 
-- 📄 Know about my experiences [CV](https://www.dropbox.com/s/zqkwqspis4bdwcz/VinuPolly-Resume.pdf?dl=0)
+- 📄 Know about my experiences [CV](https://www.dropbox.com/s/5vv5mkygr0bxhdk/VinuPollyResume.pdf?dl=0)
 
 - ⚡ Fun fact **Dark mode all the way !**
 
