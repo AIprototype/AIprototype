@@ -7,10 +7,6 @@
 
 - 💬 Ask me about **Java, Python, Kotlin**
 
-- 📫 How to reach me **vinupolly@gmail.com**
-
-- 📄 Know about my experiences [CV](https://www.dropbox.com/s/5vv5mkygr0bxhdk/VinuPollyResume.pdf?dl=0)
-
 - ⚡ Fun fact **Dark mode all the way !**
 
 <h3 align="left">Languages and Tools:</h3>
